@@ -1,2 +1,2 @@
-# Siniar
+# Siniar a Simple Podcast App
  
